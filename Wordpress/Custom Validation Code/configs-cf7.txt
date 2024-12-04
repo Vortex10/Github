@@ -1,0 +1,1 @@
+document.querySelector('form.wpcf7-form').setAttribute('novalidate', 'novalidate');
